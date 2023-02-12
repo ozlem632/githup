@@ -3,6 +3,8 @@ public class Git {
         System.out.println("hello git");
         System.out.println("merhaba git");
         System.out.println("pushlama");
+        System.out.println("git" +
+                "");
 
     }
 }
